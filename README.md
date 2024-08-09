@@ -32,3 +32,4 @@
 ![simple-icons--scipy](https://github.com/user-attachments/assets/f6df6ec4-6ba6-4254-9b20-fe320e2643e0)
 ![logos--seaborn-icon](https://github.com/user-attachments/assets/d5427c39-522d-4ac5-9911-c05658175cc2)
 ![devicon--keras (1)](https://github.com/user-attachments/assets/71d89dbf-e2fc-4608-b452-fc7214901115)
+![devicon--pytorch](https://github.com/user-attachments/assets/4b2c4b9e-0329-4869-92b7-2e206a83276b)
