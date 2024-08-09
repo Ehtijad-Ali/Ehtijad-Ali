@@ -10,7 +10,7 @@
 
 ⚡ Fun fact: I'm an avid traveler and have a goal to visit every continent.
 
-# Languages:
+# Languages and Frameworks:
 ![img icons8](https://github.com/user-attachments/assets/925c8712-1e33-4fb9-b13e-9d89de0d0c4e)
 ![img icons8](https://github.com/user-attachments/assets/2a687552-a59d-4bf3-9717-2a64ebd9262a)
 
