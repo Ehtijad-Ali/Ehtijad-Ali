@@ -28,8 +28,9 @@
 # Libraries
 ![devicon--numpy (1)](https://github.com/user-attachments/assets/bd309672-ad04-4ece-ba81-e71f3f618abf)
 ![devicon--pandas](https://github.com/user-attachments/assets/452466a2-d7a2-4a0a-a4e0-ee653e7daa02)
-![devicon--tensorflow](https://github.com/user-attachments/assets/bf32ef60-d2ca-406a-875b-68d7721455cf)
+![devicon--matplotlib](https://github.com/user-attachments/assets/5a9a9b78-cb80-4ec5-85ca-b4ab170de5dd)
 ![simple-icons--scipy](https://github.com/user-attachments/assets/f6df6ec4-6ba6-4254-9b20-fe320e2643e0)
 ![logos--seaborn-icon](https://github.com/user-attachments/assets/d5427c39-522d-4ac5-9911-c05658175cc2)
 ![devicon--keras (1)](https://github.com/user-attachments/assets/71d89dbf-e2fc-4608-b452-fc7214901115)
 ![devicon--pytorch](https://github.com/user-attachments/assets/4b2c4b9e-0329-4869-92b7-2e206a83276b)
+![devicon--tensorflow](https://github.com/user-attachments/assets/bf32ef60-d2ca-406a-875b-68d7721455cf)
