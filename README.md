@@ -34,3 +34,4 @@
 ![devicon--keras (1)](https://github.com/user-attachments/assets/71d89dbf-e2fc-4608-b452-fc7214901115)
 ![devicon--pytorch](https://github.com/user-attachments/assets/4b2c4b9e-0329-4869-92b7-2e206a83276b)
 ![devicon--tensorflow](https://github.com/user-attachments/assets/bf32ef60-d2ca-406a-875b-68d7721455cf)
+![skill-icons--scikitlearn-dark](https://github.com/user-attachments/assets/1069fd50-f905-4b0a-a74d-75fd32f61c52)
