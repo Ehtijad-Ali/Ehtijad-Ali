@@ -11,10 +11,24 @@
 ⚡ Fun fact: I'm an avid traveler and have a goal to visit every continent.
 
 # Languages:
-![download](https://github.com/user-attachments/assets/c5ac6411-ceb6-4d9f-a0d8-e67ce5fd6960) ![react](https://github.com/user-attachments/assets/360dab04-a348-4b7b-a659-5eaa72228719)
+![img icons8](https://github.com/user-attachments/assets/925c8712-1e33-4fb9-b13e-9d89de0d0c4e)
+![img icons8](https://github.com/user-attachments/assets/2a687552-a59d-4bf3-9717-2a64ebd9262a)
 
 # Tools:
-![anaconda](https://github.com/user-attachments/assets/2e8a95ad-7c65-4fa3-aa18-2b9e45042881) ![jupyter](https://github.com/user-attachments/assets/5cf812fa-ffa7-4400-89f8-abd16adcb4bf) ![vs code](https://github.com/user-attachments/assets/6aeeca2c-832b-43f0-a1c7-3332fe2a7830) ![pycharm](https://github.com/user-attachments/assets/b0427e32-86bc-4982-aca3-a2302f7ca45f) ![tableau](https://github.com/user-attachments/assets/a7477f47-7233-435f-b25b-ba0f7375e1ba)
-# Libraries
-![numpy](https://github.com/user-attachments/assets/e2ae44eb-dd84-4751-9f3c-9c9bb5ffaa45) ![pandas](https://github.com/user-attachments/assets/40ac9ce5-928f-4676-ab24-bd6f1a7cd355)  
 
+# Libraries
+![img icons8](https://github.com/user-attachments/assets/59a57b5d-69e2-4437-8b19-2e3968fe55d5)
+![img icons8](https://github.com/user-attachments/assets/6e437439-9860-4110-8738-65ed8044a51a)
+![img icons8](https://github.com/user-attachments/assets/a9081fc2-b572-4020-83b6-50bdf5b54c53)
+![img icons8](https://github.com/user-attachments/assets/29b0655d-e7e1-4d7b-86fe-d0aa20d349cb)
+
+
+![img icons8](https://github.com/user-attachments/assets/6c67d0b1-a45b-4b5a-9125-414ef01b1f2b)
+
+![img icons8](https://github.com/user-attachments/assets/8caeec5e-39e6-4171-aa1e-5c42c44050da)
+![img icons8](https://github.com/user-attachments/assets/0125f6d8-6abf-4f7e-8175-4b2913724788)
+
+
+9177744)
+![img icons8](https://github.com/user-attachments/assets/bf673c51-ea79-450c-a037-b4a5b5c86b1e)
+![img icons8](https://github.com/user-attachments/assets/0496cea0-58dc-476a-8cfc-e4c0c0e555e9)
