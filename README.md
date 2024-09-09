@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines=Data+Science;Artificial+Intelligence;Machine+Learning;Deep+Learning;Neural+Networks;Computer+Vision;Natural+Language+Precessing;Experienced+Canva+Designer;SEO+Expert" alt="Typing SVG" />
 </p>
 
-# ⚡ Fun fact: I'm an avid traveler and have a goal to visit every continent.
+⚡ Fun fact: I'm an avid traveler and have a goal to visit every continent.
 
 # Languages:
 ![img icons8](https://github.com/user-attachments/assets/925c8712-1e33-4fb9-b13e-9d89de0d0c4e)
